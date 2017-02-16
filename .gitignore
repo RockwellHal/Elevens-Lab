@@ -8,7 +8,10 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# These >300 gifs
+# These >300 gifs and the other annoying Java things
+*.class
+*.ctxt
+*.bluej
 *.gif
 
 # Windows Installer files
